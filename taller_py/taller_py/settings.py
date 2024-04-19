@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     #Apps Propias
-    'app1.apps.App1Config'
+    'App1.apps.App1Config'
     
 ]
 
